@@ -87,4 +87,5 @@ Các ý dưới đây **do công cụ biên tập lại** từ bản báo cáo n
 - **Phép z:** áp dụng đúng phép đổi thuận/ngược để so prediction trong cùng hệ tọa độ nguồn; không suy ra mọi model đều cần `delta=1,73 m`.
 - **Quyết định:** `case-one-box-z` chỉ đổi một hộp; kiểm đối tượng này bằng nhiều view, không dừng cả batch chỉ từ một trường hợp.
 - **Điều chưa chắc:** ảnh hưởng định lượng của việc bỏ intensity thật lên kết quả detector; bộ demo này không đủ để đo accuracy.
-- [ ] **Xác nhận của Thành viên 4:** Tôi đã đọc, chỉnh nếu cần và đồng ý với phần nhận xét của mình. Ngày xác nhận: __________.
+- [x] **Xác nhận của Thành viên 4:** Tôi đã đọc, chỉnh nếu cần và đồng ý với phần nhận xét của mình. Ngày xác nhận: 
+01/10/2026.
